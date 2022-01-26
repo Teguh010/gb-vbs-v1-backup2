@@ -199,7 +199,7 @@
 
 <script>
 import CarDrawer from 'src/components/CarDrawer.vue'
-import { HTTP } from 'boot/httpcommon'
+// import { HTTP } from 'boot/httpcommon'
 export default {
   components: {
     CarDrawer
